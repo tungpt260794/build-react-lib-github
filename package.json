@@ -14,8 +14,7 @@
     "storybook": "start-storybook -p 6006",
     "build-storybook": "build-storybook",
     "build": "rollup -c",
-    "prepublishOnly": "npm run build",
-    "postversion": "git push && git push --tags && npm publish"
+    "prepublishOnly": "npm run build"
   },
   "author": "tung.phan",
   "license": "MIT",
