@@ -10,6 +10,7 @@
     "lib"
   ],
   "scripts": {
+    "test": "echo \"No test specified\"",
     "storybook": "start-storybook -p 6006",
     "build-storybook": "build-storybook",
     "build": "rollup -c",
