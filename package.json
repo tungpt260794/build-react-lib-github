@@ -1,6 +1,6 @@
 {
   "name": "build-react-lib-github",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "build react lib github",
   "type": "module",
   "main": "lib/index.js",
